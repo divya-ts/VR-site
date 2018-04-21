@@ -1,0 +1,271 @@
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element 			(HTML element reference)
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head		(head – MDN)
+
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML		(What’s in the head? – MDN)
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title		(title – MDN)
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body		(body – MDN)
+
+https://flight-manual.atom.io/using-atom/sections/snippets/			(Atom editor snippets)
+
+
+http://docs.sublimetext.info/en/latest/extensibility/snippets.html		(Sublime Text snippets)
+
+
+https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets		(Visual Studio Code snippets)
+
+
+
+
+
+
+
+
+
+Content Snippets
+
+Virtual Reality is becoming well known as a form of entertainment, but it's also finding its way into fields like education, industrial design, healthcare and so much more!
+
+How Schools Use Virtual Reality to Improve Education
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices euismod turpis eget porta. Etiam nulla massa, pretium et massa nec, ornare dignissim nisi.
+
+The Advantages of VR simulation
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices euismod turpis eget porta. Etiam nulla massa, pretium et massa nec, ornare dignissim nisi.
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements    		(<h1>–<h6> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p 			    		(<p> – MDN)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content Snippets
+
+Virtual Reality is becoming well known as a form of entertainment, but it's also finding its way into fields like education, industrial design, healthcare and so much more!
+
+How Schools Use Virtual Reality to Improve Education
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices euismod turpis eget porta. Etiam nulla massa, pretium et massa nec, ornare dignissim nisi.
+
+The Advantages of VR simulation
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices euismod turpis eget porta. Etiam nulla massa, pretium et massa nec, ornare dignissim nisi.
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements				(<h1>–<h6> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p    							(<p> – MDN)
+
+
+
+
+
+
+
+Content Snippets
+
+Top VR Resources
+
+Learn to create educational experiences in VR
+Virtual Reality in Entertainment
+Interact with buildings and products in VR
+Use VR for teleconferencing and social media
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul    		(<ul> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol    		(<ol> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl    		(<dl> – MDN)
+http://html5doctor.com/the-dl-element/   						 		(The dl element)
+
+
+
+
+
+
+
+Content Snippets
+
+https://teamtreehouse.com/vr
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a    									(<a> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes   									(HTML attribute reference – MDN)
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks    (Creating hyperlinks – MDN)
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL#Absolute_URLs_vs_relative_URLs    												(Absolute URLs vs relative URLs – MDN)
+
+Related Videos
+
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/html-review-and-uris-vs-urls    (HTML Review and URIs vs URLs)
+
+Link Examples
+
+<ul>
+  <li><a href="#">Home</a></li>
+  <li><a href="#">About</a></li>
+  <li><a href="#">Articles</a></li>
+  <li><a href="#">Contact</a></li>
+</ul>
+
+<h3>Top VR Resources</h3>
+<ol>   
+  <li><a href="#">Learn to create educational experiences in VR</a></li>
+  <li><a href="#">Virtual Reality in entertainment</a></li>
+  <li><a href="#">Interact with buildings and products in VR</a></li>
+  <li><a href="#">Use VR for teleconferencing and social media</a></li>
+</ol> 
+
+
+
+
+
+
+
+
+Video Snippets
+
+<section>
+  <h2>About this Site</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula metus in bibendum laoreet. Aenean libero est, egestas eu eros pretium, sodales iaculis est.</p>
+</section>
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics			    (Semantics – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header    	(<header> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer    	(<footer> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section    	(<section> – MDN)
+
+
+
+
+
+
+
+
+
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article        (<article> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav            (<nav> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside          (<aside> – MDN)
+
+
+
+
+
+
+
+Content Snippets
+
+<h2>VR Article</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus urna lacus, ut lacinia elit pretium a. Praesent rutrum ac ipsum vitae rhoncus. Nam non molestie purus.</p>
+<p>Nunc imperdiet, dui in varius eleifend, magna enim imperdiet felis, at ultricies magna metus vitae ante. Nulla in porttitor nibh. Mauris non libero in massa porta varius non sed magna. Donec ac mauris mattis, viverra turpis ac, dictum arcu.</p>
+<p>Vivamus molestie laoreet viverra. Ut ac fringilla ex. Donec at nisl semper, commodo mi maximus, fermentum nisi. Duis bibendum gravida ante sit amet consectetur. Curabitur ac est id justo euismod porta quis ac arcu.</p>
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article             (<article> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside               (<aside> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q                   (<q> – MDN)
+
+
+
+
+
+
+
+
+
+
+Content Snippets
+
+"Virtual reality was once the dream of science fiction. But the internet was also once a dream, and so were computers and smartphones. The future is coming." - Mark Zuckerberg
+
+https://www.facebook.com/zuck/posts/10101319050523971
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main                    (<main> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div                     (<div> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote              (<blockquote> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite                    (<cite> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer                  (<footer> – MDN)
+
+
+
+
+
+
+
+
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header          (<header> – MDN)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer          (<footer> – MDN)
+
+
+
+
+
+
+
+
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files     (Dealing with files – MDN)
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL                      (What is a URL? – MDN)
+
+Related Videos
+
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/html-review-and-uris-vs-urls            (HTML Review and URIs vs URLs – HTTP Basics)
+
+
+
+
+
+
+
+
+
+
+
+Content Snippets
+
+<img src="img/vr-space.jpg" alt="User experiencing space in VR" title="Virtual reality users can explore faraway places and feel as though they are right in the middle of the action.">
+
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img                     (<img> – MDN)
+https://webaim.org/techniques/alttext/                                            (Alternative Text)
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files                                                                (Dealing with files – MDN)
+https://en.wikipedia.org/wiki/GIF                                                 (GIF)
+https://en.wikipedia.org/wiki/Portable_Network_Graphics                           (PNG)
+https://developer.mozilla.org/en-US/docs/Web/SVG                                  (SVG – MDN)
+
+Related Videos
+
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/html-review-and-uris-vs-urls                (HTML Review and URIs vs URLs – HTTP Basics)
+
+
+
+
